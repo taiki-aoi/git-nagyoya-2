@@ -6,7 +6,10 @@
   Git:aoi taiki and katz
   Coder: Ueno
   checker:aoi
-
+  Coder: Katz
+ checker1:taiki 
+ checker2:aoi
+ 
 /* SITE */
   Standards: HTML5, CSS3
   Components: jQuery, Orbit, Reveal
