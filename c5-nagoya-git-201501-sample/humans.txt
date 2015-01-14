@@ -9,12 +9,10 @@
   Coder: Katz
  checker1:taiki 
  checker2:aoi
-<<<<<<< HEAD
  checker3:??
->>>>>>> a9b1c437fef195cf556c31dd21e5f70946cbb31d
-=======
- 
->>>>>>> 75f0105159d04233580a54fd1ae823a5bbd7796c
+
+Test Branch
+
 /* SITE */
   Standards: HTML5, CSS3
   Components: jQuery, Orbit, Reveal
