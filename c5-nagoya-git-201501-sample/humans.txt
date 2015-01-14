@@ -4,12 +4,9 @@
   Developer: hissy @HissyNC
   Design: onside @nipper_onside
   Git:aoi taiki and katz
-<<<<<<< HEAD
-  Coder: Katz
-
-=======
+  Coder: Ueno
   checker:aoi
->>>>>>> a9b1c437fef195cf556c31dd21e5f70946cbb31d
+
 /* SITE */
   Standards: HTML5, CSS3
   Components: jQuery, Orbit, Reveal
