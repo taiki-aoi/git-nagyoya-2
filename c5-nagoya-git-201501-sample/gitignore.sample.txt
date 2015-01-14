@@ -1,6 +1,6 @@
 #
 # .gitignore sample for concrete5 & WordPress projects
-#
+# hello 
 
 # ignore system files
 .DS_Store
