@@ -4,6 +4,7 @@
   Developer: hissy @HissyNC
   Design: onside @nipper_onside
   Git:aoi taiki and katz
+  Coder: Katz
 
 /* SITE */
   Standards: HTML5, CSS3
