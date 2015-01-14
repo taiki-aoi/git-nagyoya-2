@@ -3,7 +3,7 @@
 /* TEAM */
   Developer: hissy @HissyNC
   Design: onside @nipper_onside
-  Git:Aoi
+  Git:aoi taiki and katzu
 /* SITE */
   Standards: HTML5, CSS3
   Components: jQuery, Orbit, Reveal
