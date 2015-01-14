@@ -10,6 +10,7 @@
 =======
  checker1:taiki 
  checker2:aoi
+ checker3:??
 >>>>>>> a9b1c437fef195cf556c31dd21e5f70946cbb31d
 /* SITE */
   Standards: HTML5, CSS3
